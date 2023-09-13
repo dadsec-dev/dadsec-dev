@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **AI and ML**
 
-- 💬 Ask me about **Blockchain and Software dev quesions**
+- 💬 Ask me about **Blockchain and Artificial Intelligence quesions**
 
 - ⚡ Fun fact **Code is Law**
 
