@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Chidera Onwuatu</h1>
 <h3 align="center">A passionate Software and Blockchain Engineer</h3>
 
-- 🔭 I’m currently working on **AI software Applications**
+- 🔭 I’m currently working on **Blockchain and AI software Applications**
 
 - 🌱 I’m currently learning **AI**
 
 - 🤝 I’m looking for help with **AI and ML**
 
-- 💬 Ask me about **Blockchain and Artificial Intelligence quesions**
+- 💬 Ask me about **Blockchain and Artificial Intelligence**
 
 - ⚡ Fun fact **Code is Law**
 
