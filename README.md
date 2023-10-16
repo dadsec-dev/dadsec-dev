@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chidera Onwuatu</h1>
-<h3 align="center">A passionate Software and Blockchain Engineer</h3>
+<h3 align="center">A Serial Software and Blockchain Engineer</h3>
 
 - 🔭 I’m currently working on **Blockchain and AI software Applications**
 
