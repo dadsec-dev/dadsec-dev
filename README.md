@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chidera Onwuatu</h1>
-<h3 align="center">A Serial Software and Blockchain Engineer</h3>
+<h3 align="center">A Serial Blockchain and AI Systems Engineer</h3>
 
 - 🔭 I’m currently working on **Blockchain and AI software Applications**
 
-- 🌱 I’m currently learning **AI**
+- 🌱 I’m currently learning **AI Systems Engineering**
 
 - 🤝 I’m looking for help with **AI and ML**
 
