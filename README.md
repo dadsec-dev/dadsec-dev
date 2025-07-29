@@ -1,17 +1,32 @@
 <h1 align="center">Hi 👋, I'm Chidera Onwuatu</h1>
-<h3 align="center">A Serial Blockchain and AI Systems Engineer</h3>
+<h2 align="center">🚀 Serial Blockchain & AI Systems Engineer | Problem Solver | Tech Enthusiast</h2>
 
-- 🔭 I’m currently working on **Blockchain and AI software Applications**
+<p align="center">I love technology, and I see learning as my superpower. I enjoy building things from 0 to 1 — solving real-world problems by fusing innovation with engineering.</p>
 
-- 🌱 I’m currently learning **AI Systems Engineering**
+---
 
-- 🤝 I’m looking for help with **AI and ML**
+### 🧠 My Journey So Far
 
-- 💬 Ask me about **Blockchain and Artificial Intelligence**
+- 🛠️ **2020:** Part of the founding engineering team at **Bird**, where we built the **world’s first blockchain wallet risk prediction engine** on Ethereum.
 
-- ⚡ Fun fact **Code is Law**
+- 🔎 **2023:** Trained the **first AI fraud detection engine** for customer due diligence at **Bilic.io** — a model capable of flagging fraudulent blockchain transactions. We won the **Intel Hackathon** and got accepted into the **Intel Accelerator for African Startups**.
 
-<h3 align="left">Connect with me:</h3>
+- 🤖 **2024:** Led the engineering team at **OCADA** to build the **first autonomous AI agent** that trades on-chain, analyzes wallet risks, and protects users from scams and fraudulent tokens.
+
+---
+
+### 🧰 What I’m Up To
+
+- 🔭 Currently working on **AI + Blockchain Applications**  
+- 🌱 Learning advanced **AI Systems Engineering**  
+- 🤝 Open to collaboration in **AI and Blockchain projects**  
+- 💬 Always down to talk about **Blockchain, AI, and Crypto**  
+- ⚡ Fun fact: **Code is Law.**
+
+---
+
+### 🤝 Connect With Me
+
 <p align="left">
 <a href="https://twitter.com/stanley190v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="stanley190v" height="30" width="40" /></a>
 </p>
@@ -24,3 +39,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dadsec-dev&show_icons=true&locale=en" alt="dadsec-dev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dadsec-dev&" alt="dadsec-dev" /></p>
+
+### 👋 Final Words
+
+Thanks for visiting my profile! Whether you're building the next big thing in Web3 or trying to bring intelligence to decentralized systems — let’s connect, build, and innovate together.
