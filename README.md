@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Chidera Onwuatu</h1>
-<h2 align="center">🚀 Serial Blockchain & AI Systems Engineer | Problem Solver | Tech Enthusiast</h2>
+<h1 align="center">Hi, I'm Chidera Onwuatu</h1>
+<h2 align="center">Serial Blockchain & AI Systems Engineer | Problem Solver | Tech Enthusiast</h2>
 
 <p align="center">I love technology, and I see learning as my superpower. I enjoy building things from 0 to 1 — solving real-world problems by fusing innovation with engineering.</p>
 
 ---
 
-### 🧠 My Journey So Far
+### My Journey So Far
 
-- 🛠️ **2020:** Part of the founding engineering team at **Bird**, where we built the **world’s first blockchain wallet risk prediction engine** on Ethereum.
+-  **2020:** Part of the founding engineering team at **Bird**, where we built the **world’s first blockchain wallet risk prediction engine** on Ethereum.
 
-- 🔎 **2023:** Trained the **first AI fraud detection engine** for customer due diligence at **Bilic.io** — a model capable of flagging fraudulent blockchain transactions. We won the **Intel Hackathon** and got accepted into the **Intel Accelerator for African Startups**.
+-  **2023:** Trained the **first AI fraud detection engine** for customer due diligence at **Bilic.io** — a model capable of flagging fraudulent blockchain transactions. We won the **Intel Hackathon** and got accepted into the **Intel Accelerator for African Startups**.
 
-- 🤖 **2024:** Led the engineering team at **OCADA** to build the **first autonomous AI agent** that trades on-chain, analyzes wallet risks, and protects users from scams and fraudulent tokens.
+-  **2024:** Led the engineering team at **OCADA** to build the **first autonomous AI agent** that trades on-chain, analyzes wallet risks, and protects users from scams and fraudulent tokens.
 
 ---
 
-### 🧰 What I’m Up To
+###  What I’m Up To
 
 - 🔭 Currently working on **AI + Blockchain Applications**  
 - 🌱 Learning advanced **AI Systems Engineering**  
