@@ -16,7 +16,7 @@
 -  **2025:** Published a peer-reviewed research paper on LLM orchestration architectures for privacy-preserving AI systems.
 
   • IEEE Xplore: https://ieeexplore.ieee.org/document/11391136  
-  • SSRN: [https://zenodo.org/records/17435153](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5656230)
+  • SSRN: [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5656230](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5656230)
   
 -  **2026**: Leading the engineering team at Syndika Labs, where we build and research systems at the intersection of Blockchain and Artificial Intelligence, including decentralized prediction markets, oracle infrastructure, and autonomous AI agents interacting with on-chain financial systems.
 
